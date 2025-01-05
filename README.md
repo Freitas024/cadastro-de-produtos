@@ -1,8 +1,7 @@
-# React + Vite
+# Cadastro de Produtos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Esse sistema funciona como cadastro de produtos numa tabela, ultilizei o localStorange para armazzenar os produtos localmente no navegador.
 
-Currently, two official plugins are available:
+## para rodar o programa você deve baixar o arquivo e rodar o comando "npm install" para instalar as dependencias e logo em seguida rodar o "npm run dev".
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## desde já agradesço por visualizar. 
