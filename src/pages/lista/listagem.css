@@ -1,0 +1,37 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title {
+    margin: 24px 0px 60px 0px;
+}
+
+.table {
+    margin: 0px 0px 54px 0px;
+}
+
+.th {
+    background-color: #219ebc;
+    color: #fff;
+}
+
+.td{
+    text-align: center;
+}
+
+.button {
+    background-color: #219ebc;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    padding: 12px;
+    transition: transform 0.3s ease;
+}
+
+.button:hover {
+    cursor: pointer;
+    transform: translateY(-0.1rem);
+}
